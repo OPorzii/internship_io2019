@@ -10,5 +10,5 @@ guporkung@gmail.com
 ## เบอร์โทร
 088-2419495
 
-## วิธีการ Compile & RUN
+## วิธีการ Compile & Run
 ใช้ Python version 3+
