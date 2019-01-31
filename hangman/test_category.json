@@ -1,0 +1,22 @@
+[
+    {
+      "hint": "Type the letters A - F in uppercase",
+      "ans": "ABCDEF"
+    },
+    {
+      "hint": "What is the name of prime minister of thailand ?",
+      "ans": "Prayut"
+    },
+    {
+      "hint": "Print the intership domain name.",
+      "ans": "theinternship.io"
+    },
+    {
+      "hint": "Who is CEO of facebook?",
+      "ans": "Mark Zuckerberg"
+    },
+    {
+      "hint": "what is the smallest country in the world?",
+      "ans": "Vatican City"
+    }
+  ]
